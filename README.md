@@ -1,0 +1,1 @@
+# Generative-AI-for-Process-Improvement---An-Advanced-Guide-to-ChatGPT-Six-Sigma-Accredited-
