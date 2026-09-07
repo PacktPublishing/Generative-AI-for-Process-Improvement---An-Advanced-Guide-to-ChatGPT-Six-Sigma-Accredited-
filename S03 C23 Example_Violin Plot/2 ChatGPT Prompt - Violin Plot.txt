@@ -1,0 +1,25 @@
+ChatGPT Prompt - Innovatech Violin Plot Analysis
+
+****************Copy Below Details*********************
+
+Business Case Study Scenario: Tailoring Fitness Class Durations to Member Preferences in the Wellness Industry
+
+Background:
+
+FlexPulse Fitness Studios is a vibrant and modern fitness chain with locations spread across urban and suburban areas. Catering to a diverse clientele, FlexPulse offers a wide array of fitness classes, including traditional yoga and pilates, energetic spin and dance classes, and challenging strength and endurance training. Despite the popularity of its classes and the variety of options available, FlexPulse has noticed a trend of fluctuating attendance rates and mixed feedback from members regarding the satisfaction with the length of different classes. The management suspects that not all classes align well with the members' time availability and fitness goals, potentially leading to decreased satisfaction and engagement.
+
+Business Problem:
+
+The crux of the problem lies in the misalignment between the offered class durations and the diverse preferences of FlexPulse's members. Some members prefer quick, intense workouts that fit their busy schedules, while others look for longer sessions that allow for a more immersive and comprehensive fitness experience. This mismatch has led to a situation where some classes consistently see lower attendance, and feedback indicates that members are seeking more tailored options that better fit their individual needs and lifestyles.
+
+The task at hand is to analyze this data using a Violin Plot. The Violin Plot, with its detailed depiction of data distribution and density, is chosen for its ability to highlight the range of member preferences within each class category, showcasing not just the average desired session length but also the variability and extremes in preferences.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Violin Plot using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

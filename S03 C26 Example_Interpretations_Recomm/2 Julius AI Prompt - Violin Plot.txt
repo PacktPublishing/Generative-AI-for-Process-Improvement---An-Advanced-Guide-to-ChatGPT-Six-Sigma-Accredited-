@@ -1,0 +1,15 @@
+Julius AI Prompt - Innovatech Violin Plot Analysis
+
+****************Copy Below Details*********************
+
+FlexPulse Fitness Studios, a dynamic chain offering a range of classes, observes fluctuating attendance and mixed satisfaction due to class length misalignment with member preferences. Utilizing Violin Plots to analyze data distribution and preferences, the goal is to adjust class durations to better match the diverse needs of its clientele, aiming to boost satisfaction and attendance.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Violin Plot using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

@@ -1,0 +1,15 @@
+Julius AI Prompt - Box Plot 
+
+****************Copy Below Details*********************
+
+ElectroTech Innovations, Inc., a top electronic components maker with three production lines, faces quality consistency issues. Customer feedback points to quality variability, risking the company's reputation and financials. The management aims to analyze each line's variability and performance. Using Box Plots, examine the operational metrics.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Box Plot using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

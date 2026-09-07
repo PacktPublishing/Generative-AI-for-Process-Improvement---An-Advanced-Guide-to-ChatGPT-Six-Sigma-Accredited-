@@ -1,0 +1,25 @@
+ChatGPT Prompt - Innovatech Box Plot Analysis
+
+****************Copy Below Details*********************
+
+Business Situation Background:
+
+Innovatech Industries, renowned for spearheading innovation in the electronics sector, has encountered a significant hurdle that jeopardizes its market dominance and reputation for quality. Despite its robust innovation pipeline, the company has seen an uptick in customer complaints and returns, pointing to an underlying issue of inconsistent product quality across its manufacturing lines. Amit, the visionary CEO of Innovatech, faces the challenge head-on, recognizing that the company's future hinges on its ability to deliver consistently high-quality products.
+
+Problem Statement:
+
+The core issue at Innovatech lies in the variability of product quality across its various production lines. This inconsistency has led to an increase in defect rates, directly impacting customer satisfaction and loyalty. Amit is aware that without detailed insights into the performance of each production line, devising an effective solution remains a challenge. The company urgently needs to pinpoint which production lines are falling short of quality standards to implement targeted improvements, thereby ensuring product reliability and upholding its commitment to excellence.
+
+Task: Create a Box Plot
+
+Your task is to create a box plot to analyze the defect rates across Innovatech's production lines, pinpointing variability and outliers. This focused analysis will help identify which lines need urgent quality improvements, guiding strategic decisions to enhance product consistency and rebuild customer trust.
+
+The data is provided in the attached file. Please do the following: 
+
+Construct a Box Plot using this data. 
+Please provide a download link in PNG format. 
+Please provide a download link in an interactive HTML format. 
+Identify your interpretations of the constructed chart. 
+Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+Please provide the validated interpretations of the constructed chart.
+Please provide your recommendations to resolve the issue.

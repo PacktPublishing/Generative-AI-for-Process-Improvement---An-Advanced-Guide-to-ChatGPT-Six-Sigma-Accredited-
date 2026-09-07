@@ -1,0 +1,23 @@
+ChatGPT Prompt - Box Plot Analysis
+
+****************Copy Below Details*********************
+
+Background
+
+ElectroTech Innovations, Inc. is a leading manufacturer of electronic components, with three main production lines (represented as Line 1, Line 2, and Line 3 in the dataset). The company has been facing challenges in maintaining consistent quality and operational efficiency across these production lines. Recent customer feedback has highlighted variability in product quality, leading to a growing concern about the company's reputation and potential financial losses due to returns and dissatisfaction.
+
+Business Problem 
+
+To address these concerns, ElectroTech Innovations, Inc.'s management team seeks to identify and analyze the variability and performance issues within each production line. The goal is to pinpoint which production lines are experiencing greater fluctuations in operational efficiency and quality control. Understanding these variations is crucial for implementing targeted improvements, allocating resources more effectively, and enhancing overall product quality.
+
+The task at hand is to analyze this data using a Box Plot. Box plots can visually represent the distribution of operational efficiency metrics, highlighting the median, quartiles, and any outliers within each production line's data. 
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Box Plot using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.
