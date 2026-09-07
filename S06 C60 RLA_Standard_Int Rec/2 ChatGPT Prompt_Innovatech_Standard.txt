@@ -1,0 +1,25 @@
+ChatGPT Prompt - Innovatech Standard Area Chart Analysis
+
+****************Copy Below Details*********************
+
+Business Situation Background
+
+Innovatech Industries, renowned for its innovative electronic components that power a wide range of applications from consumer gadgets to smart home systems, is navigating a complex and rapidly changing technological landscape. Despite its status as a leader in the industry, the company is facing challenges that impact its market position and financial stability. These challenges include intense competition, technological advancements, and shifts in market demand, which have led to fluctuations in the company's performance.
+
+Problem Statement
+
+Amidst these challenges, the ability to adapt and strategically plan for the future is more crucial than ever. Innovatech must evaluate its operational efficiency and marketing strategies to address the declining trend in its overall financial performance observed over recent years. A detailed analysis of the company's marketing campaign returns on investment (ROI) is essential to uncover the effectiveness of its marketing efforts and identify opportunities for optimization.
+
+Task: Create a Standard Area Chart
+
+To address this need, your immediate task is to develop a Standard Area Chart that visualizes the ROI of Innovatech's marketing campaigns over the last five years (2019-2023). This chart should provide a clear overview of how marketing effectiveness has evolved, highlighting periods of higher and lower ROI. The visualization will serve as a critical tool in evaluating past marketing strategies and guiding future decisions to enhance Innovatech's financial performance and market presence.
+
+The data is provided in the attached file. Please do the following: 
+
+Construct a Standard Area Chart using this data. 
+Please provide a download link in PNG format. 
+Please provide a download link in an interactive HTML format. 
+Identify your interpretations of the constructed chart. 
+Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+Please provide the validated interpretations of the constructed chart.
+Please provide your recommendations to resolve the issue.

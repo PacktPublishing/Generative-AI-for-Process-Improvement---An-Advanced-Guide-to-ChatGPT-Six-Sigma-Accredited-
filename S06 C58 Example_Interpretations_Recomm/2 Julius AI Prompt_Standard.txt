@@ -1,0 +1,15 @@
+Julius AI Prompt - Innovatech Standard Area Chart Analysis
+
+****************Copy Below Details*********************
+
+GreenLeaf Environmental Consultancy studies rainfall patterns to aid water management, agricultural planning, and flood risk assessment. Faced with variable rainfall, it aims to analyze monthly data using an Area Chart. This helps visualize rainfall trends over time, aiding local farmers, urban planners, and policymakers in making informed decisions for better environmental management.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Standard Area Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

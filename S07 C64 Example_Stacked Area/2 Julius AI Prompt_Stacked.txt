@@ -1,0 +1,15 @@
+Julius AI Prompt - Innovatech Stacked Area Chart Analysis
+
+****************Copy Below Details*********************
+
+Analyze film genre revenue trends for strategic planning. Task: Use a Stacked Area Chart to visualize genre contributions to total revenue over five years at Cinematic Horizons Entertainment, addressing competition and shifting consumer preferences.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Stacked Area Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

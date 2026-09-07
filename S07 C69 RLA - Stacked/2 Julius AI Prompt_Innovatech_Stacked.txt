@@ -1,0 +1,14 @@
+Julius AI Prompt - Innovatech Stacked Area Chart Analysis
+
+****************Copy Below Details*********************
+
+Innovatech Industries, known for cutting-edge electronics, is at a crossroads due to changing market demands and stiff competition. Amit plans to leverage data to guide strategic decisions. By examining 2019-2023 revenues for key products, the goal is to pinpoint growth opportunities, ensuring a focused and sustainable path forward for the company.
+
+The data is provided in the attached file. Please do the following: 
+Construct a Stacked Area Chart using this data. 
+Please provide a download link in PNG format. 
+Please provide a download link in an interactive HTML format. 
+Identify your interpretations of the constructed chart. 
+Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+Please provide the validated interpretations of the constructed chart.
+Please provide your recommendations to resolve the issue.

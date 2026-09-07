@@ -1,0 +1,22 @@
+ChatGPT Prompt - Innovatech Stacked Area Chart Analysis
+
+****************Copy Below Details*********************
+
+Innovatech Industries stands at a critical juncture in its storied history. Founded on the principles of innovation and quality, the company made its mark by delivering cutting-edge electronic components across a broad spectrum of applications. From powering the latest consumer gadgets to driving advancements in smart home automation, Innovatech's products have been at the forefront of technological innovation. However, recent years have seen the company grappling with new challenges. Amidst a rapidly evolving market landscape, Innovatech has faced fluctuating demand, intensified competition, and internal process inefficiencies, leading to uneven financial performance across its diverse product portfolio.
+CEO Amit Gupta, realizing the urgency of the situation, seeks to harness data-driven insights to steer the company back to its growth trajectory. The diversity in the performance of Innovatech's product lines—ranging from steady growth in some areas to decline in others—highlights the need for a strategic reevaluation of the company's product development and market positioning strategies.
+
+Problem Statement
+
+To navigate through these turbulent times and set the course for a sustainable future, Amit needs a clear understanding of each product line's contribution to Innovatech's overall revenue over the past five years. This insight is crucial for identifying which product lines hold the most promise for growth and which may require reevaluation or discontinuation. The task at hand is to analyze the revenue data across Innovatech's top product lines: High-Performance Computing Components, Consumer Electronics Components, Connectivity Modules, Smart Home Automation Components, and Wearable Device Components, from 2019 to 2023.
+
+Task: Create a Stacked Area Chart
+
+The immediate task is to create a Stacked Area Chart that visualizes the revenue contribution of each product line over the specified period. This chart will serve as a foundational tool for assessing the dynamic shifts in product performance and market demand.
+The data is provided in the attached file. Please do the following: 
+Construct a Stacked Area Chart using this data. 
+Please provide a download link in PNG format. 
+Please provide a download link in an interactive HTML format. 
+Identify your interpretations of the constructed chart. 
+Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+Please provide the validated interpretations of the constructed chart.
+Please provide your recommendations to resolve the issue.

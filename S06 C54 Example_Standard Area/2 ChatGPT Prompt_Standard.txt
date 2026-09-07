@@ -1,0 +1,25 @@
+ChatGPT Prompt - Innovatech Standard Area Chart Analysis
+
+****************Copy Below Details*********************
+
+Business Case Study Scenario: Managing Water Resources Through Rainfall Pattern Analysis in the Environmental Sector
+
+Background:
+
+GreenLeaf Environmental Consultancy is a dedicated firm that works closely with local communities, governments, and businesses to promote sustainable environmental practices. As part of their mission, GreenLeaf conducts comprehensive studies on local ecosystems to monitor the impact of climate change and human activities on natural resources. A recent focus has been on understanding rainfall patterns in a specific region, which is crucial for water resource management, agricultural planning, and assessing flood risks.
+
+Business Problem
+
+The region GreenLeaf is currently studying has experienced significant variability in rainfall over the past year. This variability poses challenges for local farmers in planning their planting and harvesting cycles, for urban planners in managing water resources and flood defenses, and for policymakers in making informed decisions regarding climate adaptation strategies. GreenLeaf needs to analyze the monthly rainfall data to identify any patterns or anomalies that could inform better environmental management and planning strategies.
+
+The task at hand is to analyze this data using a Standard Area Chart to visualize the average monthly rainfall data collected over the past year. The area chart is selected for its ability to effectively display the volume of rainfall over time, highlighting periods of higher or lower rainfall. This visual representation will help GreenLeaf and its stakeholders quickly grasp the seasonal dynamics of rainfall and identify any unexpected deviations from typical patterns.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Standard Area Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

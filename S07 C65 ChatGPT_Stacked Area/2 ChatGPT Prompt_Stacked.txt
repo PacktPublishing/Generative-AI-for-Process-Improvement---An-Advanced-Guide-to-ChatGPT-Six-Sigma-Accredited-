@@ -1,0 +1,25 @@
+ChatGPT Prompt - Innovatech Stacked Area Chart Analysis
+
+****************Copy Below Details*********************
+
+Business Scenario: Analyzing Genre-based Revenue Trends for Strategic Planning in the Film Industry
+
+Background
+
+You are an executive at Cinematic Horizons Entertainment, a leading film production and distribution company. Your company has been successful over the years but faces increasing competition and rapidly changing consumer preferences, especially with the rise of streaming services and the impact of global events like the COVID-19 pandemic. To navigate these challenges, you realize the need for a strategic pivot in your company's approach to film production and genre focus.
+
+Business Problem
+
+Your primary problem is to analyze past revenue trends across different movie genres to inform future production and investment decisions. You aim to identify which genres have been most lucrative, understand shifts in consumer preferences, and anticipate future market demands.
+
+The task at hand is to analyze this data using a Stacked Area Chart. You want to visualize how each genre's contribution to the total revenue has changed over the five years.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Stacked Area Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.
