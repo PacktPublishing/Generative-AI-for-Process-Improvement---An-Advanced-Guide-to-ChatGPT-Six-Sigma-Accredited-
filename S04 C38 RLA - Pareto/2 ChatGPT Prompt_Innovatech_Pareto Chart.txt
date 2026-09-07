@@ -1,0 +1,25 @@
+ChatGPT Prompt - Innovatech Pareto Analysis
+
+****************Copy Below Details*********************
+
+Business Situation Background: Streamlining Costs at Innovatech Industries
+
+At Innovatech Industries, our journey through the tech landscape has been marked by groundbreaking electronic innovations, from essential consumer electronics components to advanced smart home technologies. Our passion for pushing technological boundaries has made us a beacon of innovation. Yet, in the rapidly changing tech world, maintaining our growth and adapting to shifts in the market demand more than just innovative products; it demands acute financial stewardship.
+
+Problem Statement
+
+As we stand at a crucial turning point, it's clear that a deep dive into our operational expenses is necessary. With various departments driving our company forward, from R&D to Marketing, each plays a vital role yet contributes differently to our overall expenses. Identifying where and how we can be more financially efficient without stifling our creativity or compromising on quality is our next big challenge. This is about finding a balance that allows us to continue innovating while also being smart about our resource allocation.
+
+Task: Empirical Analysis through Visualization
+
+To tackle this, we're rolling up our sleeves to create a Pareto Chart, aiming to shed light on our departmental expenses over the last year. This isn't just about crunching numbers; it's about visually understanding our cost distribution to make informed decisions that align with our innovation goals and market positioning. By pinpointing where the majority of our expenses are concentrated, we can strategically adjust, ensuring every dollar spent is an investment in our future.
+
+The data is provided in the attached file. Please do the following: 
+
+Construct a Pareto Chart using this data. 
+Please provide a download link in PNG format. 
+Please provide a download link in an interactive HTML format. 
+Identify your interpretations of the constructed chart. 
+Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+Please provide the validated interpretations of the constructed chart.
+Please provide your recommendations to resolve the issue.

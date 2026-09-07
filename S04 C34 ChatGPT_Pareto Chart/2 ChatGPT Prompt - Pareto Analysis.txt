@@ -1,0 +1,25 @@
+ChatGPT Prompt - Pareto Analysis
+
+****************Copy Below Details*********************
+
+Business Case Study Scenario: Enhancing Product Quality in the Home Furnishings Retail Industry
+
+Background
+
+UrbanHome Furnishings is a well-established home decor and furniture retail company with a diverse range of products from furniture to home accessories. The company prides itself on high-quality products and customer satisfaction. However, in recent months, UrbanHome has experienced an unexpected increase in customer complaints and returns, which has led to a negative impact on brand reputation and sales. The senior management team has been urgently tasked to identify the root causes of product defects and implement corrective measures to restore customer trust and improve product quality.
+
+Business Problem
+
+The primary business problem for UrbanHome Furnishings is to identify the most significant sources of product defects that are leading to customer complaints and returns. Given the wide range of products the company offers, it's challenging to pinpoint where to allocate resources effectively to address quality issues. The management team believes that by identifying the top causes of defects, they can target their efforts more efficiently, reduce the rate of defective products, and ultimately improve customer satisfaction.
+
+The task at hand is to analyze this data using a Pareto Chart. A Pareto Chart, based on the Pareto principle (also known as the 80/20 rule), can help the company identify the few critical products responsible for the majority of defects. This analysis will allow UrbanHome to prioritize quality improvement initiatives where they will have the most significant impact.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Pareto Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

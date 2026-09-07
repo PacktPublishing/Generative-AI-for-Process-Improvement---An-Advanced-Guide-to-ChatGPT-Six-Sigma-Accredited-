@@ -1,0 +1,25 @@
+Business Case Study Scenario: Elevating Employee Satisfaction Across Departments in the Technology Sector
+
+Background
+
+ChatGPT Prompt - Innovatech Lollipop Chart Analysis
+
+****************Copy Below Details*********************
+
+TechSolutions Inc. is a rapidly growing technology company specializing in software development and IT services. With a diverse range of departments from customer-facing units like Sales and Customer Support to internal operations such as IT and Human Resources, maintaining high employee satisfaction is crucial for innovation, productivity, and reducing turnover rates. Recently, an internal survey was conducted to gauge employee satisfaction across various departments, revealing significant disparities.
+
+Business Problem:
+
+Despite TechSolutions Inc.'s efforts to foster a positive work environment, preliminary analysis of the survey results indicates varying levels of employee satisfaction across departments. This variation could potentially impact the company's overall performance, employee retention, and morale, especially in departments critical to the company's operations and customer satisfaction. The management team recognizes the need to address these disparities to ensure a uniformly positive work culture and maintain high standards of employee engagement and productivity.
+
+The task at hand is to analyze this data using a Lollipop Chart. The Lollipop Chart, with its clear and straightforward visual representation, will help in identifying which departments are lagging in terms of employee satisfaction and require immediate attention.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Lollipop Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

@@ -1,0 +1,15 @@
+Julius AI Prompt - Pareto Analysis
+
+****************Copy Below Details*********************
+
+UrbanHome, a home decor retailer, faces increased customer complaints and returns, hurting sales and reputation. Tasked with identifying defect sources, the management aims to use a Pareto Chart to pinpoint key product issues, aligning resources to enhance quality and customer satisfaction in their diverse product range.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Pareto Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

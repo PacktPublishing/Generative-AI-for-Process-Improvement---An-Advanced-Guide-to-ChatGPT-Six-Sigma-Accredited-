@@ -1,0 +1,15 @@
+Julius AI Prompt - Innovatech Lollipop Chart Analysis
+
+****************Copy Below Details*********************
+
+TechSolutions Inc., a fast-growing tech firm, faces varying employee satisfaction levels across departments, affecting performance and morale. An internal survey showed disparities, highlighting the need for uniform work culture. Management seeks to analyze this via a Lollipop Chart to identify and address lagging departments.
+
+The data is provided in the attached file. Please do the following: 
+
+1) Construct a Lollipop Chart using this data. 
+2) Please provide a download link in PNG format. 
+3) Please provide a download link in an interactive HTML format. 
+4) Identify your interpretations of the constructed chart. 
+5) Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+6) Please provide the validated interpretations of the constructed chart.
+7) Please provide your recommendations to resolve the issue.

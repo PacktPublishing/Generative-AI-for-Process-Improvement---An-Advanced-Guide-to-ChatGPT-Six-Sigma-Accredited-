@@ -1,0 +1,15 @@
+Julius AI Prompt - Innovatech Lollipop Chart Analysis
+
+****************Copy Below Details*********************
+
+Innovatech, a tech sector leader, faces challenges in maintaining operational efficiency. A strategic review of IT support is essential for sustaining innovation. The task is to analyze IT ticket resolutions through a Lollipop Chart, identifying areas for improvement to keep Innovatech at the forefront of technology.
+
+The data is provided in the attached file. Please do the following: 
+
+Construct a Lollipop Area Chart using this data. 
+Please provide a download link in PNG format. 
+Please provide a download link in an interactive HTML format. 
+Identify your interpretations of the constructed chart. 
+Re-validate those interpretations using the raw data used to create the chart. The interpretations must be accurate. Revise and correct any incorrect interpretations.
+Please provide the validated interpretations of the constructed chart.
+Please provide your recommendations to resolve the issue.
